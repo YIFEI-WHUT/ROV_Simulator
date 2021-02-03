@@ -1,0 +1,19 @@
+{
+    "request":"usbl",
+    "client":"usbl",
+    "usbl":{
+        "headname":"$USBL",
+        "timestamp":1609234068.908,
+        "TPcode":"B23",
+        "longitude":"111.603576",
+        "N_S":"N",
+        "latitude":"20.708423",
+        "E_W":"E",
+        "roll":"1.1",
+        "pitch":"12.2",
+        "heading":"45.3",
+        "x_coordinate":"30.608423",
+        "y_coordinate":"122.603576",
+        "depth":"1000"
+        }
+    }

@@ -1,0 +1,16 @@
+{
+    "request":"rov_pose",
+    "client":"rov_pose",
+    "rov_pose":{
+        "headname":"$ROV",
+        "timestamp":1609234915.681,
+        "X_Velocity_Bottom":"1.01",
+        "Y_Velocity_Bottom":"2.11",
+        "Z_Velocity_Bottom":"3.11",
+        "rov_Roll":"0.00",
+        "rov_Pitch":"0.00",
+        "rov_Heading":"45",
+        "rov_Depth":"6000.123",
+        "rov_Altitude":"123.34"
+        }
+    }

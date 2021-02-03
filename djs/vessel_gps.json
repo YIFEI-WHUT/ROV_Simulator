@@ -1,0 +1,13 @@
+{
+    "request":"vessel_gps",
+    "client":"vessel_gps",
+    "vessel_gps":{
+        "headname":"$VESSELGPS",
+        "timestamp":1609234545,
+        "longitude":"122.62256",
+        "N_S":"N",
+        "latitude":"30.758479",
+        "E_W":"E",
+        "heading":"180.98"
+        }
+    }
